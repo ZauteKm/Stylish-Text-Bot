@@ -38,4 +38,4 @@ Press the button Deploy to heroku and give the values for the config vars. 👇
 
 ## Credit ❤️:
 <p align="middle">
-<a href="https://github.com/Ns-AnoNymouS"><img src="https://badgen.net/badge/Ns%20/AnoNyMouS/80FF00?icon=github&labelColor=black"></a>
+<a href="https://github.com/Ns-AnoNymouS"><img src="https://badgen.net/badge/Ns%20/AnoNyMouS/80FF000?icon=github&labelColor=black"></a>
