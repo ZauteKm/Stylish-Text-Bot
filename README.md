@@ -35,3 +35,7 @@ Press the button Deploy to heroku and give the values for the config vars. 👇
 <a href="https://youtube.com/c/ZauteKm"><img src="https://img.shields.io/badge/YouTube-Channel-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
 <p align="left">
 </p>
+
+## Credit ❤️:
+<p align="middle">
+<a href="https://github.com/Ns-AnoNymouS"><img src="https://badgen.net/badge/Ns%20/AnoNyMouS/80FF00?icon=github&labelColor=black"></a>
