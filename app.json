@@ -7,9 +7,9 @@
     "StylishText"
   ],
   "logo": "https://telegra.ph/file/8f7067fd24710cebfaa23.jpg",
-  "success_url": "https://telegram.dog/StylistTextBot",
-  "website": "https://github.com/ZauteKm/Stylish-Text-Bot",
-  "repository": "https://github.com/ZauteKm/Stylist-Text-Bot",
+  "success_url": "https://telegram.dog/StylishText_zKbot",
+  "website": "https://github.com/InFoJosTel/Stylish-Text-Bot",
+  "repository": "https://github.com/InFoJosTel/Stylish-Text-Bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -25,7 +25,7 @@
     },
     "OWNER_ID": {
       "description": "give your telegram user id here",
-      "value": ""
+      "value": "1684438752"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
