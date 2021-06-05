@@ -23,8 +23,8 @@ async def start(c, m):
     # Buttons
     buttons = [
         [
-            InlineKeyboardButton('🙆🏻‍♂️ Report Bugs', url=f"https://t.me/joinchat/TBKI3d9nCF8xMBsL"),
-            InlineKeyboardButton('Channel 📢', url=f"https://telegram.me/TGBotSzK")
+            InlineKeyboardButton('🙆🏻‍♂️ Report Bugs', url=f"https://t.me/InFoJosTelGroup"),
+            InlineKeyboardButton('Channel 📢', url=f"https://telegram.me/InFoJosTel")
             ],[
             InlineKeyboardButton('❤️ Credit', url=f"https://t.me/{owner_username}"),
             InlineKeyboardButton('Bot Lists 🤖', url=f"https://t.me/TG_BotList/37"),
