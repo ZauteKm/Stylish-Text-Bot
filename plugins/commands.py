@@ -17,7 +17,7 @@ async def start(c, m):
 
 `I can help you to get stylish fonts. Just send me some text and see magic.`
 
-** Developer by :** ❤️ ▷ [𓆩𓊈𝗣𝗜𝗥𝗢 𝗔𝗬𝗨𝗦𝗛𓊉𓆪 </>](https://t.me/PiroAyush)
+** Developer :** ❤️ ▷ [𓆩𓊈𝗣𝗜𝗥𝗢 𝗔𝗬𝗨𝗦𝗛𓊉𓆪 </>](https://t.me/PiroAyush)
 """
 
     # Buttons
